@@ -1,3 +1,6 @@
+![Neuromorphic Sim Game Banner](assets/images/banner.png)
+
+
 🧠 Neuromorphic Sim Game
 
 Neo-led strategy / idle simulation of efficient neural systems
