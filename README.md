@@ -27,6 +27,10 @@ Run in your terminal (PowerShell, CMD, or Bash):
 ```bash
 cd game
 python main.py
+```
+
+Download the latest playable build from  
+**Releases → Assets → Source code (zip).**
 
 Build and upgrade a neuromorphic node cluster
 
