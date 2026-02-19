@@ -27,6 +27,7 @@ Run:
 ```bash
 cd game
 python main.py
+ ` ``` ` 
 
 Download the latest playable build from Releases → Assets → Source code (zip).
 
