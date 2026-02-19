@@ -5,3 +5,13 @@ docs/raw/
 *.env
 *.key
 secrets.*
+# Build / export output
+exports/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
