@@ -19,19 +19,14 @@ Run locally:
 
 Run in your terminal (PowerShell, CMD, or Bash):
 
-Requirements:
+### Requirements
 - Python 3.10+
 
-Run:
+### Run
 
 ```bash
 cd game
 python main.py
- ` ``` ` 
-
-Download the latest playable build from Releases → Assets → Source code (zip).
-
-🔁 Core Gameplay Loop
 
 Build and upgrade a neuromorphic node cluster
 
