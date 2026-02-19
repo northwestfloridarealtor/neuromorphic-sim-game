@@ -221,3 +221,13 @@ Adaptation over scripting
 Emergence over prescription
 
 Community over control
+
+🧠 Meet Neo
+
+<p align="center">
+  <img src="assets/images/NEO.JPG" width="450"/>
+</p>
+
+
+
+
