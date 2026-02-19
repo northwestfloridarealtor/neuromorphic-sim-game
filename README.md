@@ -224,6 +224,7 @@ Community over control
 
 ## 🧠 Meet Neo
 
-![Neo](assets/images/neo.jpg)
+![NEO](https://github.com/user-attachments/assets/bf9888e1-1b73-487b-b1b2-43ad122824fe)
+
 
 
