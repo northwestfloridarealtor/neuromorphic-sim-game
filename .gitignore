@@ -1,0 +1,7 @@
+# Ignore raw chat / export data
+docs/raw/
+
+# Common secret / env files
+*.env
+*.key
+secrets.*
