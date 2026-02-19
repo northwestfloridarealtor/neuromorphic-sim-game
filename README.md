@@ -15,12 +15,18 @@ Version: v0.1.0 – Initial Public Playable Build
 
 Run locally:
 
-# requirements
-Python 3.10+
+## ▶️ Quick Start (Local)
 
+Run in your terminal (PowerShell, CMD, or Bash):
+
+Requirements:
+- Python 3.10+
+
+Run:
+
+```bash
 cd game
 python main.py
-
 
 Download the latest playable build from Releases → Assets → Source code (zip).
 
