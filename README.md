@@ -142,8 +142,12 @@ Neo lore modules
 Submit via Issues → Proposal or PR prototype.
 
 ## 🎮 Gameplay Preview
-![First Run Screenshot](docs/images/first-run-screenshot.jpg)
-
+<p align="center">
+  <img src="docs/images/first-run-screenshot.jpg" width="900" alt="First Run Screenshot">
+</p>
+<p align="center">
+  <img src="docs/images/2nd run screenshot gameplay.png" width="900" alt="Second Run Screenshot">
+</p>
 
 🧪 Canonical Design Spec
 
