@@ -1,3 +1,6 @@
+![Neuromorphic Sim Game Banner](assets/images/banner.png)
+
+
 🧠 Neuromorphic Sim Game
 
 Neo-led strategy / idle simulation of efficient neural systems
@@ -12,16 +15,22 @@ Version: v0.1.0 – Initial Public Playable Build
 
 Run locally:
 
-# requirements
-Python 3.10+
+## ▶️ Quick Start (Local)
 
+Run in your terminal (PowerShell, CMD, or Bash):
+
+### Requirements
+- Python 3.10+
+
+### Run
+
+```bash
 cd game
 python main.py
+```
 
-
-Download the latest playable build from Releases → Assets → Source code (zip).
-
-🔁 Core Gameplay Loop
+Download the latest playable build from  
+**Releases → Assets → Source code (zip).**
 
 Build and upgrade a neuromorphic node cluster
 
@@ -131,6 +140,10 @@ Seasonal challenge packs
 Neo lore modules
 
 Submit via Issues → Proposal or PR prototype.
+
+## 🎮 Gameplay Preview
+![First Run Screenshot](docs/images/first-run-screenshot.jpg)
+
 
 🧪 Canonical Design Spec
 
